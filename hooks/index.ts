@@ -1,0 +1,1 @@
+export { useBrandFonts } from "./useBrandFonts";
